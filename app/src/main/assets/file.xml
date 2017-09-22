@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<weather>
+    <tmp type='boolean'>81</tmp>
+    <t type='boolean'>Fog</t>
+</weather>
